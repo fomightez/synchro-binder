@@ -11,7 +11,8 @@ Click any launch binder badge on this page to use [SynChro software](http://www.
 
 ***SynChro: reconstruction and visualization of Synteny blocks along Chromosomes.***
 
-
+SynChro, along with PhyChro,ReChro,and 	
+AnChro, is part of the [CHROnicle package](http://www.lcqb.upmc.fr/CHROnicle/) dedicated to the reconstruction of the complete evolutionary history of genomes.
 
 This repository is for running python-based [SynChro software](http://www.lcqb.upmc.fr/CHROnicle/SynChro.html) in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
 
