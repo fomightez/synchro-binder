@@ -1,5 +1,4 @@
 csh
 gnuplot
 gnuplot-x11
-texlive-full
 ghostscript
