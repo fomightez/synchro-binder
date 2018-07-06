@@ -26,7 +26,7 @@ The SynChro software is described in two scientific articles [here](http://www.p
 
 Users should cite:
 
-- Drillon G, Carbone A and Fischer G (2014) SynChro: A Fast and Easy Tool to Reconstruct and Visualize Synteny Blocks along Eukaryotic Chromosomes. PLoS ONE 9 (3): e92621. doi:[10.1371/journal.pone.0092621]((http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0092621)
+- Drillon G, Carbone A and Fischer G (2014) SynChro: A Fast and Easy Tool to Reconstruct and Visualize Synteny Blocks along Eukaryotic Chromosomes. PLoS ONE 9 (3): e92621. doi:[10.1371/journal.pone.0092621](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0092621)
 - Drillon G, Carbone A and Fischer G (2011) Combinatorics of chromosomal rearrangements based on synteny blocks and synteny packs. Journal of Logic and Computation. doi: [10.1093/logcom/exr047](http://logcom.oxfordjournals.org/content/23/4/815) ([pdf](http://www.lcqb.upmc.fr/CHROnicle/telechargements/JLogicComputation-2011-Drillon-logcom_exr047.pdf))
 
 The copyright information for the software is [reprinted below](#license-for-SynChro-software) for clarity.
