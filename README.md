@@ -1,5 +1,5 @@
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/SynChro-binder/master?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/SynChro-binder/master)
 
 # SynChro-binder
 
@@ -59,4 +59,4 @@ This repository is set up to make use of the binder service offered by [MyBinder
 
 Click this button below to begin using SynChro:
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/SynChro-binder/master?filepath=index.ipynb)
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/SynChro-binder/master)
