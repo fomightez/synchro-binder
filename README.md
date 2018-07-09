@@ -40,6 +40,10 @@ Usage
 
 This repository is set up to allow running this software after pressing the `launch binder` button above or below.
 
+The notebook which will open upon luanch works through the Quick start from [here](http://www.lcqb.upmc.fr/CHROnicle/SynChro.html).  It is meant to be worked through in order if you are meaning to actively run it; however, the output from a previous run has been left to allow for some quick assessments of what the software does. Although there is an issue with the graphics if you are just trying to view the previously-generated output and it may just be easier to view the static rendering available [here](https://nbviewer.jupyter.org/github/fomightez/synchro-binder/blob/master/index.ipynb).
+
+At the bottom of the notebook several vector graphics (`SVG`) files should be rendered when it is run actively; however, because that involves running code, by default they are not rendered when the notebook is reopened, as discussed [here](https://github.com/jupyter/notebook/issues/3038). If you'd like those to be rendered in the active notebook upon opening without needing to trigger the code to actually run in the session, just click the `Not Trusted` badge in the upper right side of the notebook to toggle it to `Trusted`. The graphics should be rendered at this point without the need for triggering any code to run. Alternatively, the previously-generated graphics are shown in the static rendering available [here](https://nbviewer.jupyter.org/github/fomightez/synchro-binder/blob/master/index.ipynb).
+
 
 License for SynChro software
 ----------------------------
