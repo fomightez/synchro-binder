@@ -82,12 +82,23 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ```
 
+Related software
+----------------
+
+I have set up another repository that launches an active Jupyter session with alternative software for syntenic comparisons and visualizations:
+
+- MCscan software (Python version) facilitates pairwise and multiple genome syntenic comparisons and visualizations. MCscan is an application within the JCVI module.  Go [here](https://github.com/fomightez/mcscan-binder) to be able to learn more about MCscan and launch it.
+  I have converted the software's 'example wokflow' to a Jupyter notebook and added some additional exploration of the features of the software beyond that. Hopefully, having working versions of that software along with the  MCscan software available here lowers the technical barriers that would normally detour interested persons from comparing and contrasting options with each set of software. In fact, this hopefully makes it easy to supplement analyses with one with use of features from the other.
+
+
 Technical Details
 -----------------
 
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
 `csh` and `gnuplot` were necessary so `apt.txt` was used. BLAST was indicated in `environment.yml`.
+
+I borrrowed the 'warning' highlight/introductory text about notebooks at the top of the included notebook from Tim Sherratt's notebook [here](https://github.com/GLAM-Workbench/te-papa-api/blob/master/Exploring-the-Te-Papa-collection-API.ipynb).
 
 Click this button below to begin using SynChro:
 
