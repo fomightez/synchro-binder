@@ -1,5 +1,5 @@
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/SynChro-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez//SynChro-binder/master?filepath=index.ipynb)
 
 # SynChro-binder
 
@@ -102,4 +102,4 @@ I borrrowed the 'warning' highlight/introductory text about notebooks at the top
 
 Click this button below to begin using SynChro:
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/SynChro-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez//SynChro-binder/master?filepath=index.ipynb)
