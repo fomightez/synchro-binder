@@ -3,7 +3,7 @@
 
 # SynChro-binder
 
-tl;dr:
+tl;dr:  
 Click any launch binder badge on this page to use [SynChro software](http://www.lcqb.upmc.fr/CHROnicle/SynChro.html) inside your browser.
 
 
